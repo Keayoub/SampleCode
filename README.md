@@ -1,5 +1,4 @@
 # Sample Code Project - Simple DevOps Project
-### [Official Site/Blog][1] - [@RestSharp][2]  
 ### License: Apache License 2.0
 
 # Features
