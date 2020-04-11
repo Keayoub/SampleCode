@@ -2,6 +2,7 @@
 ### License: Apache License 2.0
 
 # Features
+## Main features in our project
 On a high level, this solution will provide modules including
 
 1. Accounts Receivable
